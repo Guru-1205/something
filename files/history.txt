@@ -1,0 +1,26 @@
+Bid ID: 1, Farmer ID: guru, Name: tomato, Quantity: 2, Base Price: 100.0
+Bid ID: 2, Farmer ID: guru, Name: potato, Quantity: 3, Base Price: 200.0
+Base Bid Details: Bid ID: 3, Farmer ID: guru, Name: brinjal, Quantity: 150, Base Price: 1000.0
+Winning Retailer Bid Details:
+	retailer1,170.0
+
+Base Bid Details: Bid ID: 5, Farmer ID: farmer2, Name: apple, Quantity: 10, Base Price: 2500.0
+Winning Retailer Bid Details:
+	retailer3,2800.0
+
+Base Bid Details: Bid ID: 5, Farmer ID: farmer2, Name: apple, Quantity: 10, Base Price: 2500.0
+Winning Retailer Bid Details:
+	retailer3,2900.0
+
+Base Bid Details: Bid ID: 13, Farmer ID: guru, Name: chicken, Quantity: 10, Base Price: 10000.0
+Winning Retailer Bid Details:
+	retailer1,11000.0
+
+Base Bid Details: Bid ID: 1001, Farmer ID: gc2, Name: carrot, Quantity: 10, Base Price: 600.0
+Winning Retailer Bid Details:
+	retailer1,650.0
+
+Base Bid Details: Bid ID: 1, Farmer ID: gc2, Name: tomato, Quantity: 10, Base Price: 1000.0
+Winning Retailer Bid Details:
+	retailer1,1050.0
+
